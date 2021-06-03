@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of the Honourable House of Commons in answer to three queries : I. Whether there is no other cause of our want of bullion and coin, but the clipping of our money, and the expence of the war, II. Whether it is possible to manage the trade of the nation without a supply in specie, equal to what we have lost, III. Whether a forc'd credit can be an expedient under our present circumstances : with some other remarks, in relation to our own, and foreign manufacturies.</title>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48202</idno><idno type="EEBO-CITATION">12892302</idno>
+  <idno type="VID">95141</idno>
+  <idno type="EEBO-PROQUEST">2240875957</idno>
+  
+            <idno type="STC">Wing L1685</idno>
+            <idno type="STC">ESTC R3802</idno>
+            <idno type="OCLC">12892302</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of the Honourable House of Commons in answer to three queries : I. Whether there is no other cause of our want of bullion and coin, but the clipping of our money, and the expence of the war, II. Whether it is possible to manage the trade of the nation without a supply in specie, equal to what we have lost, III. Whether a forc'd credit can be an expedient under our present circumstances : with some other remarks, in relation to our own, and foreign manufacturies.</title>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England.</term>
+               <term type="geographic_name">Great Britain --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95141:1"/>
+            <p>A LETTER TO A MEMBER Of the HONOURABLE House of COMMONS; In Answer to Three QUERIES;
+<list>
+                  <item>I. <hi>Whether there is no other Cause of our want of Bullion and Coin, but the Clip<g ref="char:EOLhyphen"/>ing of our Money, and the Expence of the War.</hi>
+                  </item>
+                  <item>II. <hi>Whether it is possible to manage the Trade of the Nation without a Supply in Specie, equal to what we have lost.</hi>
+                  </item>
+                  <item>III. <hi>Whether a forc'd Credit can be an Expedient under our present Circum<g ref="char:EOLhyphen"/>stances.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With some other Remarks, in Relation to our Own, and Foreign Manufacturies.</p>
+            <p>
+               <hi>London:</hi> Printed, and are to be Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall.</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95141:2"/>
+            <pb n="1" facs="tcp:95141:2"/>
+            <head>A LETTER TO A MEMBER Of the HONOURABLE House of COMMONS; In Answer to <hi>Three Queries,</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I sub<g ref="char:EOLhyphen"/>mit my Thoughts on the present Mis<g ref="char:EOLhyphen"/>fortunes we lie under in the want of a Specie, as it stands in relation to the Trade, Manufacturies, and Navigation of these Kingdoms.</p>
+            <pb n="2" facs="tcp:95141:3"/>
+            <p>Your better Judgment, will, I hope, par<g ref="char:EOLhyphen"/>don my Defects, in what I here give my O<g ref="char:EOLhyphen"/>pinion of, which I gather more from the Practice and Nature of Trade, Native and Foreign, than from Notions and Apprehen<g ref="char:EOLhyphen"/>sions of working Heads, which I fear do us hurt in Trade. I shall then, before I say a<g ref="char:EOLhyphen"/>ny thing of Money, or the Specie of Gold and Silver, take notice of the Original and Growth of Trade, in the most considerable Parts of the World: I will not look back so far as those early Days of <hi>Solomon,</hi> when perhaps, <hi>Egypt</hi> was the greatest Mart of the known World; nor how it came to pass, that <hi>Palastine</hi> in that Reign came to flow with Gold and Silver, as well as Milk and Honey; since we find no great Instances, ei<g ref="char:EOLhyphen"/>ther of their Manufacturies or Navigation; their Wealth therefore, may rather be thought to arrive from the Tributes of larger Terri<g ref="char:EOLhyphen"/>tories, than the ancient Limits of that King<g ref="char:EOLhyphen"/>dom, which being very narrow, and have<g ref="char:EOLhyphen"/>ing no Consumption abroad, either by Ar<g ref="char:EOLhyphen"/>mies or new Plantations, soon fill'd with Treasure, and was the more visible, by the little Compass it had to dilate it self in.</p>
+            <p>The <hi>Romans</hi> and <hi>Carthaginians</hi> Trade and Manufactury, was Arms and War: The first place then that shewed it self (though it was in these latter Ages) in Trade and Commerce,
+<pb n="3" facs="tcp:95141:3"/>was that little Territory of <hi>Genoa,</hi> whose Advantages were indeed great, lying in the Centre of the most refined and beautiful Parts of the World; for tho' the <hi>Venetian</hi> for Strength, Antiquity, and Power, was the most rever'd Part of the Christian Go<g ref="char:EOLhyphen"/>vernment in the East, when the <hi>Grecian</hi> Em<g ref="char:EOLhyphen"/>pire fell; yet they were then so imployed in the defence of their Country, that Trade was the least part of their Care; nor was it ever the Bent of their Genius.</p>
+            <p>
+               <hi>Genoa</hi> first began with a small Manufactu<g ref="char:EOLhyphen"/>ry of Linning, Silk, and Paper, their Ter<g ref="char:EOLhyphen"/>ritories being small, were soon fill'd with Inhabitants, and that forced them to en<g ref="char:EOLhyphen"/>large their Dominions on Sea, since they could not on the Shore, which brought them to their Growth in Navigation; so that they became the Carriers of the <hi>Levant,</hi> and that was a certain way of increasing their Trea<g ref="char:EOLhyphen"/>sure of Gold and Silver, in which they be<g ref="char:EOLhyphen"/>came so Oppulent, as they are at this day seen, by the great Sums they have at In<g ref="char:EOLhyphen"/>terest.</p>
+            <p>The Duke of <hi>Tuscany</hi> took Advantage by the ill Conduct of the <hi>Genouees,</hi> placing high Duties upon Merchandise Imported, to bring the Trade of the <hi>Levant</hi> into <hi>Le<g ref="char:EOLhyphen"/>gorn,</hi> by making it a free Port; so that <hi>Ge<g ref="char:EOLhyphen"/>noa</hi> now rather keeps than increaseth her
+<pb n="4" facs="tcp:95141:4"/>Riches, only what she gets by Usu<g ref="char:EOLhyphen"/>ry.</p>
+            <p>These places I name, but as an Instance for the many others that arrive to Riches, more by the Product and Labour of other Countries than their own.</p>
+            <p>And tho' Carriage, which the <hi>Genouees</hi> first rose by, is a Profit by Labour, yet it is but the least Part, though often the surest Gain.</p>
+            <p>What I would observe from the Growth of these Places, for they both now abound in Gold and Silver, is, that they came by it with little Capitals, and great Indu<g ref="char:EOLhyphen"/>stry.</p>
+            <p>The <hi>Portugees</hi> were the next that dabled in Trade and Navigation (for considering the opportunities they had in both, above any Nation that time in the World, they did no more) when they had the <hi>East</hi> and <hi>West-Indies, Brazeel,</hi> and the Western I<g ref="char:EOLhyphen"/>slands, all in their Power, what might they not have done, had they but a Genius to have made the best use of their good For<g ref="char:EOLhyphen"/>tune.</p>
+            <p>They were early in their Navigation, and Possessors of a plentiful Country, but their Misfortune was, the want of Industry, and a too large Territory to encourage it; <hi>For so it is, where there is more Land then Peo<g ref="char:EOLhyphen"/>ple,
+<pb n="5" facs="tcp:95141:4"/>where they are seldom Industrious; but narrow Limits forceth Arts and Labour.</hi> This is manifest in the <hi>Dutch</hi> and <hi>Spaniard;</hi> and it hath been observed, where the <hi>Dutch</hi> fall into large and plentiful Countries, they abate in their Assiduity and Labour; <hi>Ease being naturally the desire of all People.</hi> The <hi>Portu<g ref="char:EOLhyphen"/>gees,</hi> notwithstanding all these fore-going Advantages, are no rich People, and con<g ref="char:EOLhyphen"/>sidering their Product and foreign Plantati<g ref="char:EOLhyphen"/>ons, may be wondered at for their scarcity of Coyn and Bullion.</p>
+            <p>I will not trouble you with innumerating more, but come nearer home to the <hi>French</hi> and <hi>Dutch;</hi> the former came late on the Stage of Trade and Commerce, and yet have gained and grown more in it than all <hi>Europe,</hi> in the space of Thirty Years; and this is the more remarkable, since their Advance came neither by the Crouds of their People, as theirs of <hi>Holland,</hi> nor yet by the Genius of the People, or <hi>Trades find<g ref="char:EOLhyphen"/>ing its own Way, or making its own Channel,</hi> as some express it, but by the great Conduct and Wisdom of their Government: And that in all Countries, I conceive, may have mighty Force in Trade, which I take to be as improveable as the Mind and Understand<g ref="char:EOLhyphen"/>ing of Man; which though in some is so sublime, yet we see in others it runs wild,
+<pb n="6" facs="tcp:95141:5"/>when not cultivated by Letters and Educa<g ref="char:EOLhyphen"/>tion; so may Trade in the most plentiful Countries, turn to the Ruine and Destru<g ref="char:EOLhyphen"/>ction of the People, if it run wild, or be taken up by other Nations; or that which is much the same, if their own People are led into a Traffick that brings them in Returns of their own Product, Trinkets and Manufacturies of other Nations, for their own Consumption.</p>
+            <p>
+               <hi>France,</hi> by the best Estimate I have met with, have increased the Bullion and Coin of that Nation, in those few Years of Peace they had from the Year 59, to their War in <hi>Flanders;</hi> they grew to a Prodigy in five Years after the Restoration of <hi>Charles</hi> the Second, in their Silk Manufacturies, and other Curiosities, that we swallowed up in <hi>England,</hi> to that degree, as were it thorough<g ref="char:EOLhyphen"/>ly considered, in all its Circumstances, would appear little short of what we now send abroad in Money or Bullion; and at the same time so great was their Assure<g ref="char:EOLhyphen"/>ance, as if we had been in their Livery and Wooden Shooes, and therefore Prohibited by a great Duty (which is the surest way) all our Woollen Manufacturies, Beef, Butter, <hi>&amp;c.</hi>
+            </p>
+            <pb n="7" facs="tcp:95141:5"/>
+            <p>
+               <hi>France</hi> hath well advanc'd it self from a Coin of Brass Deneirs, to a plenty of Gold and Silver, within the compass of my Me<g ref="char:EOLhyphen"/>mory: And when I was in <hi>France,</hi> which was in the Year 1657. I saw such Instan<g ref="char:EOLhyphen"/>ces of their Brass Money, that it was the general Opinion of the Merchants then, that it would at last become the only Mo<g ref="char:EOLhyphen"/>ney of that Kingdom, a third being allow<g ref="char:EOLhyphen"/>ed in all Payments; and if Provision were not made in Contracts, whole Pay<g ref="char:EOLhyphen"/>ments were made in them; and such Extre<g ref="char:EOLhyphen"/>mity was that Kingdom in, as to their Coin, that in the Minority of the <hi>French</hi> King, it was usual to Raise and Fail their Money, just as it might suit with the Necessities of their Government. When their Treasury was empty, and Taxes were to be Levied, then they made Edicts to have it pass under low Denominations; but when their Treasury was full, and the Army to be paid, then they raised it.</p>
+            <p>I mention this to shew how a Kingdom may soon retrieve the want of Money, by the Labour of their own People, and the right Dispose of their own Product; I now come to Answer your Three Que<g ref="char:EOLhyphen"/>ries.</p>
+            <p n="1">
+               <pb n="8" facs="tcp:95141:6"/>1st, <hi>Whether there is no other Cause of our want of Bullion and Coin, but the Cliping of our Money, and the Expence of the War?</hi>
+            </p>
+            <p n="2">2dly, <hi>Whether it is possible to manage the Trade of the Nation without a supply in Spe<g ref="char:EOLhyphen"/>cie, equal to what we have lost?</hi>
+            </p>
+            <p n="3">3dly, <hi>Whether a forced Credit can be an Expedient under our present Circumstances?</hi>
+            </p>
+            <p>To your first Query, <hi>Whether there is no other Cause of our want of Bullion and Coin, but the Cliping of our Money, and Expence of the War?</hi>
+            </p>
+            <p>To this I Answer; That to me there seem to be other concurring Circumstances that have added to that Misfortune, and they are these:</p>
+            <p>
+               <hi>First,</hi> The extraordinary advance of In<g ref="char:EOLhyphen"/>terest, and <hi>Premium</hi> given by the Govern<g ref="char:EOLhyphen"/>ment to such as lend Money.</p>
+            <p>In this Opinion I differ with most Men, it being generally believed, that those ex<g ref="char:EOLhyphen"/>traordinary Allowances drew out Hoards, as in the Million Lottery, <hi>&amp;c.</hi> but this I think to operate no farther then to those whose Funds of Money were small, and
+<pb n="9" facs="tcp:95141:6"/>that which is worse, gathered out of the hands of Artisans, Manufacturers, and small Dealers, that Money, which otherwise would have been employed in Trade and Labour; and that is like Eating up Seed Corn, which, if used as it ought, would bring in great encrease; so it is by taking out of the hands of them that employ it in Manufacturies and Labour. I confess this Consideration abated my Opinion of that way of getting Money out of those hands that employed it in Labour, to fetch in more.</p>
+            <p n="2">2dly, This giving Allowances beyond any other way of employing Money, ei<g ref="char:EOLhyphen"/>ther at Interest or Trade, gave Apprehen<g ref="char:EOLhyphen"/>sions to the wary and more thinking Men, that the Necessities of the Government and Nation, would yet rise to higher <hi>Premium,</hi> and so they keep their Money in expectation of it.</p>
+            <p n="3">3dly, That which abates our Passant Money, is the failing of publick Funds and Parliamentary Credit, which makes Men that have Money think, there is no Securi<g ref="char:EOLhyphen"/>ty either Publick or Private, and will there<g ref="char:EOLhyphen"/>fore part with none; and this Conside<g ref="char:EOLhyphen"/>ration
+<pb n="10" facs="tcp:95141:7"/>I fear too prevalent in the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="4">4thly, That which may be feared contri<g ref="char:EOLhyphen"/>butes to our want of Specie in the Trade of the Kingdom, is the extraordinary way some Men have, that are concerned in Pub<g ref="char:EOLhyphen"/>lick Money, and perhaps think it their Interest to keep private what they have, and if some are right in their Conjectures, this goes a great way.</p>
+            <p n="5">5thly, That which I conceive contributes, and not the least to our want of Coin, is our Expence of Foreign Commodities in time of War; our Improvidence in this matter is the wonder of our Neighbours, for that all People in the World, but the <hi>English,</hi> abate their Expence in the time of any Publick Calamity, as War must be to any People that consider: Yet such is our Misfortune, that we do not only consume as much of Foreign Curiosities in time of War, as in time of Peace, but we do it at near twice the cost. And whatever our Imports exceed our former Consumption, must be Purchased with ready Money.</p>
+            <p>I shall name but one Commodity for all, and that is Wine, whether <hi>French</hi> or <hi>Port,</hi> it hath been most of this War pur<g ref="char:EOLhyphen"/>chased
+<pb n="11" facs="tcp:95141:7"/>at near Double the rate it formerly cost; and so it is in several other Foreign Commodities; all which I fear, if duly Com<g ref="char:EOLhyphen"/>puted, would appear to have carryed out in these last Seven Years, vast Sums of Money.</p>
+            <p>I come now to your Second Query, <hi>Whe<g ref="char:EOLhyphen"/>ther it is possible to manage the Trade of the Nation, without a supply in Specie, equal to what we have lost.</hi>
+            </p>
+            <p>In Answer to this it is necessary to look back to the Practise of other Countries, some of which I have mentioned before, in order to bring them in to the resolve of this Query.</p>
+            <p>And First, in general we see, that the Original of the Plenty of Bullen and Coin in all Kingdoms, is either from the Force of Conquest, or the Power of Arts, Manu<g ref="char:EOLhyphen"/>facturies and Navigation: For the natural Product of the most Fertile Soil, makes not a Country rich in Money; we see it in <hi>Spain,</hi> who, tho' the Universe is sup<g ref="char:EOLhyphen"/>plied with Gold and Silver from their <hi>In<g ref="char:EOLhyphen"/>dies,</hi> yet no Nation in its proportion hath less of it than themselves; the reason is plain, the Labour of an Artisan may in a Day gain two Shillings, when that of the
+<pb n="12" facs="tcp:95141:8"/>Spaniard, even from the Labour of their Slaves in the Mines, amounts not to one; and that which is yet worse, the Manufactu<g ref="char:EOLhyphen"/>ries of <hi>Europe,</hi> which they cannot be with<g ref="char:EOLhyphen"/>out, come to their hands, at five times the price of its Original cost, but their Gold and Silver cannot be raised.</p>
+            <p>But to come nearer this matter, it appears, that <hi>France</hi> by their wise Conduct in Trade and Navigation, increased their Gold and Silver in Seven Years, more then ever be<g ref="char:EOLhyphen"/>fore had ever been done in an Hundred Years; and from the extremity they were under in Brass Money, became full of Bullion; from whence I infer, that what <hi>France</hi> did in Seven Years, we might do in Three, either in Peace or War, if we could be wise; I own my self one of them that believe it possible for us to enlarge our Trade and Navigation in time of Naval War. And I think it will not be deni<g ref="char:EOLhyphen"/>ed, but if we are to begin the World a<g ref="char:EOLhyphen"/>gain in time of Peace, we come with much greater advantages than the <hi>French</hi> did when they began in Trade.</p>
+            <p>They were to Purchase Ships, make Sea<g ref="char:EOLhyphen"/>men, fall into new Trades, but we are past all that with Experience, I had like to have said of loosing them by our Su<g ref="char:EOLhyphen"/>pine Carelesness.</p>
+            <pb n="13" facs="tcp:95141:8"/>
+            <p>I have hitherto given my Observations and Thoughts in general, how all Nations have in general acquired their proportions of Gold and Silver, and that they have most, who depend least on their Native Product; Art and Labour are the only Philosophers Stone that turns the Product of the Earth into Gold.</p>
+            <p>I must farther observe, that small begin<g ref="char:EOLhyphen"/>nings, and where they had little help of their Native Product, have, within the Memory of some now Living, arrived to plenty of Gold and Silver, who at first could scarce produce a Specie, for Sup<g ref="char:EOLhyphen"/>ply of Bread, but such as we should think our selves undone to be brought to; yet from such, <hi>Holland, Hamburgh,</hi> and seve<g ref="char:EOLhyphen"/>ral other parts of the World had their Be<g ref="char:EOLhyphen"/>ginning; Gold and Silver was not sent them like Manna from Heaven, nor must we expect Treasure to fall from thence upon us.</p>
+            <p>I return to give you the Reasons for my belief, that we may, under our pre<g ref="char:EOLhyphen"/>sent want of Specie support, and more en<g ref="char:EOLhyphen"/>large our Trade and Navigation: You see I have all along in this Discourse shewn, that it is by Labour and Manufacturies Bullion is brought into any Country.</p>
+            <pb n="14" facs="tcp:95141:9"/>
+            <p>Now if this be so, then we have that Foundation left us, by which all the Trea<g ref="char:EOLhyphen"/>sure of the World is Purchased.</p>
+            <p>The next Question will then be, <hi>How we shall be supplyed with a Specie to support this Labour and Manufacturies?</hi>
+            </p>
+            <p>The great Cry of the Nation is the want of Money to pay the poor for their La<g ref="char:EOLhyphen"/>bour, for want of which our Manufactu<g ref="char:EOLhyphen"/>ries are at a stand; and the truth is, it is so; for which Reason it seems to me, that dive not into the Mysteries of Government, most unaccountable, why there was not a timely provision made, to supply the want of Money for this use, which in my hum<g ref="char:EOLhyphen"/>ble Opinion, was as easie to be done as said.</p>
+            <p>The Poor work only for Food and Rai<g ref="char:EOLhyphen"/>ment, and that we have within our selves, it is not purchased abroad with Gold and Silver; now that we cannot raise a Cre<g ref="char:EOLhyphen"/>dit within our selves to supply the Poor with Bread, will be the wonder of other Nati<g ref="char:EOLhyphen"/>ons, tho' it seems not considered by us.</p>
+            <p>I hear Paper Credit generally declaimed against, and if it were a free Choice, that Bullion and Credit lay equally before us, to choose which we liked best; I should not wonder at the denying Paper; but when there is no choice, for that is our Case, why
+<pb n="15" facs="tcp:95141:9"/>we should not make use of that which can only support our Poor, and by their La<g ref="char:EOLhyphen"/>bour bring in Bullion, I cannot understand. Gentlemen are afraid they shall have their Pockets stuft with Paper, in room of their Bags full of Money; but if they please to consider, that if they have not Paper, they will soon have neither Money or Tenants, it might alter their Opinion in this mat<g ref="char:EOLhyphen"/>ter. Do we want Money, and because we see there is not sufficient to answer the small expence of the Nation; and that if a forc'd Credit be established, we shall be burthen'd with it, and for that reason we will have neither Credit or Money; this to me seems a wrong Conclusion; and if the Opinion do not soon change, it may be feared our Misfortune will be irrepa<g ref="char:EOLhyphen"/>rable.</p>
+            <p>I have lately Discoursed with a Judicious Man, who imploys Numbers of Hands in the Silk and Woollen Manufacturies, he tells me, that he verily believes, if some Course be not taken this Session, for a Supply to keep the poor at work, Thousands will Starve, and more Transport themselves in<g ref="char:EOLhyphen"/>to <hi>Holland, Germany,</hi> and other Parts. I know not how this affects other Men, but to me it is the most frightful Apprehen<g ref="char:EOLhyphen"/>sion of all the Difficulties we lye under.</p>
+            <pb n="16" facs="tcp:95141:10"/>
+            <p>We have been more then an Hundred Years growing in our Manufacturies, and are by the blessing of God arrived to a wonderful Perfection in them; it would be a Misfortune not sufficiently to be lament<g ref="char:EOLhyphen"/>ed, if we should loose that in one Year, we have been gaining an Hundred.</p>
+            <p>Nor do we, I fear, consider, that if we loose our Manufacturies, we at the same time destroy our Navigation, it being our Ma<g ref="char:EOLhyphen"/>nufacturies which send our Ships abroad; and they likewise invite them home again, with Oyl, Dying Stuffs, <hi>&amp;c.</hi>
+            </p>
+            <p>Now to loose these, and the Nation both at once (for I think they go together in their Fortune) for fear of a forc'd Credit, is, I confess, beyond my Understanding, and the more so, because it is demon<g ref="char:EOLhyphen"/>strable, that if we make a right use of our present Exigencies, we may turn them to the Advantage and Enlargement of our Ma<g ref="char:EOLhyphen"/>nufacturies: And tho' Landed Men may at first be Apprehensive of their Rents being paid in Paper; yet they would soon see that Paper turn into Gold, it would make this extend beyond the Bounds designed, should I enumerate particulars.</p>
+            <p>Necessity we say is the Mother of Inven<g ref="char:EOLhyphen"/>tion, and there seem reason to believe it will in this Case be the Father of our Ri<g ref="char:EOLhyphen"/>ches;
+<pb n="17" facs="tcp:95141:10"/>and if it had no other effect, but a<g ref="char:EOLhyphen"/>bating our Foreign Expence, it might in a few Years fill this Kingdom with Gold and Silver: it is not commonly consider<g ref="char:EOLhyphen"/>ed, how much Saving multiplies Treasure: And sure this must be of mighty and van<g ref="char:EOLhyphen"/>tage to us, when we abate our Foreign Ex<g ref="char:EOLhyphen"/>pence and encrease our Home, upon that which will bring us in Bullion.</p>
+            <p>When I observe the general distaste Gen<g ref="char:EOLhyphen"/>tlemen have of a forc'd Credit, I must own my stupidity, that I cannot find the reason of it so far, as to make a Ma<g ref="char:EOLhyphen"/>jority: For Usurers, and such as neither trust God or Man, Hoarders of Money, I won<g ref="char:EOLhyphen"/>der not much at them; but for Men of Trade and Expence, why they should choose rather to starve, than make use of any thing but Gold and Silver, I cannot understand; since this Credit will answer all uses at home, and we have no reason to complain that it will not fetch us Vanities from a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>But after all this, I am for limiting this Credit to Three Millions, and not to be Obligatory for more than Two Years, and have it secured on the best and most certain Fund a Parliament can make; this forc'd Credit being only to mix with Money, so as it may Raise a present Supply, to
+<pb n="18" facs="tcp:95141:11"/>set all the working Hands in the Nation in imployment, a Blessing which we cannot Purchase at too dear a Rate, and yet negle<g ref="char:EOLhyphen"/>cted by us, tho' it may seem to fall into our Mouths.</p>
+            <p>It is said the Fair Sex are shewing us the way how to Save and Enrich these Nations, may they be the happy Instruments of doing so great a good. <hi>Vives,</hi> in his Book of a Christian Woman, tells us, that he heard it Reported when he was a Boy, that in a City of <hi>Spain,</hi> the young Men abounding in Wealth, gave themselves up to Excess and Extravagancy, which the Ladies ob<g ref="char:EOLhyphen"/>serving, and fore-seeing that it would be the Ruine of their City, united in a Re<g ref="char:EOLhyphen"/>solution, that they would abate in their own, and despise and turn their Backs on all Men that were Extravagant and Gay in their Cloathes.</p>
+            <p>The Resolution is much the same, as is said of our Ladies now, that they will wear Stuff and Silks of our own Fabrick in Summer, and Cloath in Winter; all which may be so improved by our own Manufactu<g ref="char:EOLhyphen"/>rers, as to make distinction of Quality, and of as great a Price, as any thing that comes from abroad; and so that it be of our own Manufacturies, the more Costly the better for the Nation,
+<pb n="19" facs="tcp:95141:11"/>and not the worse for them whose Fortunes can afford to pay for Curiosities.</p>
+            <p>The present Circumstances we are under, alters not my Opinion which I have given in another place, that the Parsimony of the Rich, is the Ruine of the Poor; and in truth, in some Cases Damage to them<g ref="char:EOLhyphen"/>selves; but what I here say of the Ex<g ref="char:EOLhyphen"/>pence of our Gentry, relates to Foreign Manufacturies, such as are more for Curi<g ref="char:EOLhyphen"/>osity than use; and had it not been for our excess in them, the Reign of King <hi>Charles</hi> the Second, had loaded this Kingdom with Coin and Bullion: Would it not then be our greatest Wisdom, to Retrieve that in time of War, that we lost in time of Peace; I mean our Senses as well as Money, both which run at Tilt, while we exceed our old Character of being Apes of Imi<g ref="char:EOLhyphen"/>tation, and became Apes of Invention, our great Masters of Trade sending Pat<g ref="char:EOLhyphen"/>terns for <hi>Indians</hi> to work out the Money of the Nation from the Rich, and the Bread out of the Mouths of the Poor, perhaps our present Necessities may make us think: And if we did do so, I believe we might yet be the greatest People for Trade and Navigation in the World; and were we rightly possest of that, we need not fear the Power of <hi>France;</hi> our Element is
+<pb n="20" facs="tcp:95141:12"/>the Sea, our Business is there, nor are we Ma<g ref="char:EOLhyphen"/>sters of our Possessions on the Land, longer than we Command the Sea, and that is not to be done only by Ships of War, it is our Fleets in Trade, that are the Nursery of our Fleets in War.</p>
+            <p>We are an Original in every thing, and that I take to be our Misfortune, as it might have been our Happiness; it is or might have been our Happiness above any Nation of the World, that as we are by Divine Providence placed in the Centre of Trade, so we are blessed with such Product, as no part of the World can Rival us in, nor great part of the World be without.</p>
+            <p>It is a Misfortune, that as we are an Ori<g ref="char:EOLhyphen"/>ginal in the Benefits of Nature, so we are in neglecting the Use of them; for certainly no civilized People in the World, would make so little of such inestimable Funds as we have to work upon; what would the <hi>Dutch</hi> (and to our Shame, we may now bring in the <hi>French</hi>) do, if they had our Mines of Lead and Tin, our Fleeces of Wool, our Hides and Tallow, our several sorts of Fisheries, and to compleat all, an Industri<g ref="char:EOLhyphen"/>ous and Ingenious People to Manufacture and Improve them. Can any one believe the Councils of <hi>Holland</hi> or <hi>France</hi> would Credit a few Merchants and Retailers, that
+<pb n="21" facs="tcp:95141:12"/>should tell them, notwithstanding these mighty Advantages you have above the World, you shall sell none of them, if you will not wear the Livery of the <hi>Indians,</hi> and that you must purchase with your Mo<g ref="char:EOLhyphen"/>ney, not with your Commodities, but them you must sell to all Nations, and having turned them into Money, send it to the <hi>East-Indies:</hi> there must certainly be some won<g ref="char:EOLhyphen"/>derful Charm in this matter, to make Men fear, that all the Nations in the World will combine against us, if we wear not the Ma<g ref="char:EOLhyphen"/>nufacturies of the <hi>Indies.</hi>
+            </p>
+            <p>I meet with Men of better Understanding among the <hi>Italian</hi> Merchants, who say, they believe it would not injure their Trade, tho' <hi>Italian</hi> Wrought Silks were brought under the same Prohibition with the <hi>Indian;</hi> and if there were any reason to believe it might affect our Woollen Manufactury, it must be in <hi>Italy,</hi> where they consume so much, but in the <hi>East-Indies</hi> scarce enough to make an Article in Trade. You may perhaps think I have digrest in this Discourse of our Ma<g ref="char:EOLhyphen"/>nufacturies, which I think have some Rela<g ref="char:EOLhyphen"/>tion to your Query, whether it is possible to manage the Trade of the Nation without a Specie equal to what we have lost; and what I have here said of carrying on our Manufa<g ref="char:EOLhyphen"/>cturies, is perswasive to me that we may.</p>
+            <pb n="22" facs="tcp:95141:13"/>
+            <p>Money can no other way be brought into the Kingdom, but by the Exports of our Manufacturies, and they cannot be made without a Credit to set the Poor at Work, and if that be established, it will have a dou<g ref="char:EOLhyphen"/>ble effect for our Advantage, the one to raise Funds for carrying on our own Manufactu<g ref="char:EOLhyphen"/>ry, the other to enforce a Frugality in the Expence of Foreign Manufacturies, we shall bring in Returns less of them, and more of Bullion, were it but five hundred thousand Pounds <hi>per Ann.</hi> abated in our foreign Con<g ref="char:EOLhyphen"/>sumption, it would soon fill this Kingdom with Specie of Gold and Silver.</p>
+            <p>I have sometimes thought our present scar<g ref="char:EOLhyphen"/>city of Money, may turn to the great Advan<g ref="char:EOLhyphen"/>tage of this Kingdom, for that nothing but Necessity will reclaim a People bred up in Affluence and Plenty. This Nation never yet knew the want of Money, and perhaps the smart of it now, may make them prize it the more when they have it; and that no Nation can arrive so soon unto as we, because we abound in those Commodities that will fetch it. Other Countries, I mean those of greatest Commerce, gain Treasure by Traf<g ref="char:EOLhyphen"/>ficking with the Product of their Neigh<g ref="char:EOLhyphen"/>bours, but we may do it by the Strength of our own; so that nothing but our ill Con<g ref="char:EOLhyphen"/>duct can hinder us from full Supplies of Gold
+<pb n="23" facs="tcp:95141:13"/>and Silver. We account no Man poor, that hath Flocks and Herds, tho' he hath not Mo<g ref="char:EOLhyphen"/>ney; and the same Reason holds for a Coun<g ref="char:EOLhyphen"/>try that abounds with Natural and Artificial Commodities, that are as necessary for Fo<g ref="char:EOLhyphen"/>reign Use, as our Flocks and Herds at home.</p>
+            <p>It is to be observed, that our Product is not for Luxury and Effeminate Expence, which wise People use not as we do, but our Com<g ref="char:EOLhyphen"/>modities are Utensils of Life and Security, which great part of the World are supplied with.</p>
+            <p>I submit what I have here said, as to your Second Query, and come to your third.</p>
+            <p>
+               <hi>Whether a forced Credit can be an Expe<g ref="char:EOLhyphen"/>dient under our present Circumstances?</hi> This is in part answered before, but I shall now be more paticular.</p>
+            <p>I must own, a forced Credit is the last Ex<g ref="char:EOLhyphen"/>pedient for any People, and I believe by foresight, might, in such a Country as this is, been prevented: there are many Strings in Trade that will not now endure a Touch, and that is one Reason why I send not to the Press the other Parts of the Essays on Trade, that you among others have so often asked for, they seem not now in Season; but there may come a time when they will.</p>
+            <pb n="24" facs="tcp:95141:14"/>
+            <p>But to return to your Query of forc'd Credit: It is said, that in the best of times the Trade of this Kingdom was managed by Nine Tenths of Credit; but 'tis true, it was voluntary, and seems most genuine when it is so; but when that is lost, must we sit down sullenly, and give all up: It would be thought a Frenzy in Men at Sea, that had spent their Mast in a Storm, to re<g ref="char:EOLhyphen"/>fuse putting up a Jewry Mast, and give for Reason, it would be dishonourable, which their Owners might at their pleasure impose upon them: this seems our Case, our Ship of Trade has lost her Masts, Money, and Credit, and cannot Sail without something in the room of them; and if when we had Twice the Money, and Nine times the Credit, we have now yet Traded with great Disad<g ref="char:EOLhyphen"/>vantage, in respect of our Neighbours, pay<g ref="char:EOLhyphen"/>ing Six <hi>per Cent.</hi> when they paid but Three, what shall we do now, when we have little Money and no Credit.</p>
+            <p>To me there seems no way to get the for<g ref="char:EOLhyphen"/>mer, but by raising the latter, a Credit to set our Manufacturies on foot, will certain<g ref="char:EOLhyphen"/>ly bring in Money.</p>
+            <p>But it may perhaps be said, What will so small a Credit as Three Millions do, where twenty times the Sum was imployed before, when there was twice the Money? I cannot
+<pb n="25" facs="tcp:95141:14"/>therefore say it will in a day set all Trade a float, but believe it will go far beyond the Proportion of Three to Sixty, accounting that the former Credit of the Nation.</p>
+            <p>And my Reason for this Opinion is grounded upon Three Heads, which I pre<g ref="char:EOLhyphen"/>sume this Credit will affect.</p>
+            <p>
+               <hi>First,</hi> The dislike many will have to this forced Credit, will make the Bills fly about the faster, Men will not keep them by as they do Guinea's or Milled Money, by which means it is reasonable to suppose, these Three Millions will run in Trade, as fast as Ten Millions of Money which will rest almost in every Hand, when this will always be in Motion.</p>
+            <p>
+               <hi>Secondly,</hi> This forced Credit will produce a voluntary Credit, many will rather take a private Man's Note, than a Bill of Credit, and that will be of the same use in Trade that Goldsmiths Notes were formerly; and this may raise many Millions more in Credit, and will certainly advance the Credit of the Bank of <hi>England,</hi> which can only be the lasting Credit of the Nation.</p>
+            <p>
+               <hi>Thirdly,</hi> This forced Credit will bring down the Interest of Money, reasonable Se<g ref="char:EOLhyphen"/>curity will please some Men better with a lit<g ref="char:EOLhyphen"/>tle Interest, than these Tickets of Credit; for that though Men of Faith and Affection
+<pb n="26" facs="tcp:95141:15"/>to the Government will esteem them as se<g ref="char:EOLhyphen"/>cure as any thing we have; yet there are o<g ref="char:EOLhyphen"/>thers who believe nothing that is New can be safe; Mortgages and Bonds have been the Language of their Fathers, and they will speak no other.</p>
+            <p>I answer not an Objection which I have heard some make, because the Statute for this Credit must be so made, as I am sure it may be, to reach all Men, and enforce Ob<g ref="char:EOLhyphen"/>servance, and so the Objection will be out of doors, that Men will not part with their Goods for them: But suppose for Argument sake it were so, it will not be denied, but that by Law they may be made a good Ten<g ref="char:EOLhyphen"/>der to pay Debts, and that will keep many out of a Prison; and such therefore who have a little Money, will have liberty hereby to imploy it in Trade.</p>
+            <p>It is to be observed farther, That such as are obliged to take them for Debts, will lose no time in sending them abroad again; so that as I said before, the Diffidence of some Men, turns to the Advantage of Trade.</p>
+            <p>There now remains to be answered the main Objection of all; How shall this Cre<g ref="char:EOLhyphen"/>dit of Three Millions be secured to be Paid off at the end of Two Years, when there ap<g ref="char:EOLhyphen"/>pears such difficulty to answer all that is out on Talleys.</p>
+            <pb n="27" facs="tcp:95141:15"/>
+            <p>That which may make this Credit the more easie to the Nation, is, That by this Credit there shall be no new Debt contracted, for that this Credit shall be raised on Tal<g ref="char:EOLhyphen"/>leys already struck, and such of them may be made use of, as are upon the best Funds, and will come in within two Years.</p>
+            <p>I cannot see the Reason for doubting Publick Funds, if Principles of Honesty should not secure the Faith of a Nation, sure Self-preservation will; and we are taught by the Mistakes already made, what is the Consequence of breaking such a Credit. I think it as much and more the Interest of every Man in the Kingdom, to preserve and defend the Credit of Parli<g ref="char:EOLhyphen"/>amentary Funds, as his own; and whate<g ref="char:EOLhyphen"/>ver some Men may think, there is no difference between the loss of our Natio<g ref="char:EOLhyphen"/>nal Credit in Parliament, and our Private Freeholds, especially at a time when we are to begin the World again, and a Credit must be the greatest part of our Capital.</p>
+            <p>But why there should be Exceptions made to a Credit that is now abroad, for being made more useful, I cannot imagine, for by this Credit proposed, there is no more done, than charging the Credit we have already made as sure as Law can do it, and that ought to be Sacred.</p>
+            <pb n="28" facs="tcp:95141:16"/>
+            <p>But you will say possibly, you would not have every Man in the Kingdom obliged to take this Credit; Why not? Hath not every Man in the Kingdom engaged, that is, gi<g ref="char:EOLhyphen"/>ven his word by his Representative in Parli<g ref="char:EOLhyphen"/>ament, for this Credit already? And would it not be Dishonourable in a private Man, to give that for Assurance in Payment, which he will not the next Day take him<g ref="char:EOLhyphen"/>self?</p>
+            <p>I doubt we forget the great Power, and therefore fail in the great Veneration due to Parliaments.</p>
+            <p>I hope to see the Day, when a Vote of Lords and Commons, shall make <hi>Versales</hi> shake; to do it, is to shew the World, that a Talley upon a Parliamentary Fund, is as good as so much Gold.</p>
+            <p>The Scheme and Modus of this Manage<g ref="char:EOLhyphen"/>ment I set not down here, tho' I have it by me, because I think the private Notions of any Man in things of this Consequence, should not be made Publick, but are best handed to them, in whose Province things of this Nature are properly lodged.</p>
+            <p>I shall hold you no longer with my Con<g ref="char:EOLhyphen"/>ceptions in this matter, but submit all I have said to your better Judgment, which I should be proud to find agree with mine, in the Opinion, that we are in no such
+<pb n="29" facs="tcp:95141:16"/>Danger as some Men fear, in our Trade, Manufacturies, and Navigation for the want of Specie; but may, if not wanting to our selves, retrieve all, to the great advantage of the Nation, which God of his Mercy Grant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
